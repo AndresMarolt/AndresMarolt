@@ -1,6 +1,6 @@
 ### Andrés Marolt - Frontend Developer
 
-Hello! I'm Andrés Marolt, a passionate Frontend Developer based in Argentina 🇦🇷. At 28 years old, I've built several web applications with JavaScript, TypeScript, React.js, Next.js, Angular, Node.js, and Express.js. My coding journey has been driven by the desire to create robust and efficient web solutions. While my skills are rooted mainly in frontend technologies, my curiosity often leads me to explore various creative outlets, including playing bass guitar. Let's join forces and leverage technology to make a positive impact in the digital landscape!
+Hello! I'm Andrés Marolt, a passionate Frontend Developer based in Madrid. With a focus on creating intuitive and engaging user interfaces, I tackle challenges with a combination of technical expertise and creative problem-solving. My goal is to deliver high-quality, functional solutions that meet both user needs and business objectives. Although my experience is based on Angular, I also have strong knowledge of other frontend frameworks and libraries such as React and Next.js.
 
 ### Skills
 ![HTML_5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
